@@ -1,7 +1,7 @@
 # Form_Authentication
 
 - ##### FORM AUTHENICATION :memo:
-- ##### aes-128-ccm Encryption 
+- ##### MD5 Hashing with Asymmetric Encryption 
 - ##### Node :heavy_check_mark:
 - ##### Express :heavy_check_mark:
 - ##### Mongodb :heavy_check_mark:
